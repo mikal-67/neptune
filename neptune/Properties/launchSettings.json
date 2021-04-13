@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "neptune": {
+      "commandName": "Project",
+      "commandLineArgs": "get ed"
+    }
+  }
+}
